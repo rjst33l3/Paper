@@ -22,3 +22,6 @@ The model is detailed in Smith et al (2002)
 
 # Results
 Simulations indicate that coagulation is the dominant grwoth mechanism for these partciles.
+
+# Figures
+Figures go in their own section in a draft paper.
