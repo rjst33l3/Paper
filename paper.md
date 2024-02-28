@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 #Author
-Becky Steele
-John Smith
+Becky Steele, Uni of Manchester
+John Smith, Uni of elsewhere
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
