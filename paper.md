@@ -1,7 +1,8 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 #Author
 Becky Steele
+John Smith
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
 
