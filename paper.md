@@ -19,3 +19,6 @@ We simulate the evolution of particle sizes as they are transported away from th
 #Methodology
 We compared our measurements of particle ageing with a model simulation. 
 The model is detailed in Smith et al (2002)
+
+# Results
+Simulations indicate that coagulation is the dominant grwoth mechanism for these partciles.
