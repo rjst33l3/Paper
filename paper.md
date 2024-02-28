@@ -4,7 +4,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 #Author
 
 John Smith, University of elsewhere
-Becky Steele, Uni of Manchester
+Becky Steele, University of Manchester
 
 
 #Introduction
